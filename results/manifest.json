@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-10-25T20:50:47.977Z",
+  "seed": 20261025,
+  "docId": "WP-SYNTHOBS-TINY-REALITY-GENERATION-MODEL-EGS-2026-10-25",
+  "enginePinRecommended": true,
+  "historical_ran": true,
+  "historical_n_pass": 1,
+  "historical_n_total": 3,
+  "node": "v22.23.4"
+}

@@ -1,0 +1,2924 @@
+{
+  "generatedAt": "2026-10-25T20:50:47.977Z",
+  "docId": "WP-SYNTHOBS-TINY-REALITY-GENERATION-MODEL-EGS-2026-10-25",
+  "registryId": "synthobs-tiny-reality-generation-model-2026-10",
+  "seed": 20261025,
+  "engineShelfSlot": 50,
+  "results": {
+    "docId": "WP-SYNTHOBS-TINY-REALITY-GENERATION-MODEL-EGS-2026-10-25",
+    "registryId": "synthobs-tiny-reality-generation-model-2026-10",
+    "seed": 20261025,
+    "engineShelfSlot": 50,
+    "expedition": "Homeostasis Expedition",
+    "primaryHypothesis": "A 10 bits/s biological reality stream pipe feeds an intelligently structured three-symbol cyclic input stream, clocked by rotating polygon spin, into an Infinite Octave recursive tree of holographic rhymes, implemented across folded compact DNA molecular structures — forming a coherent structure with beneficial outcomes vs unstructured/unclocked/flat/unfolded ablations.",
+    "honesty": "TRGM architecture includes a 10 bits/s biological reality stream pipe that feeds a structured three-symbol cyclic stream (wave/node/fq), clocked by rotating polygon spin, into an Infinite Octave holographic-rhyme tree on folded compact DNA. Hard Goldilocks viability = geometry + wave + navigation; phase is a soft steering delta. Catalog is Soft Story association grammar — not gene→physics causation, not clinical genetics, not a measured neural bitrate. Batteries: E1–E5, H1–H3 (mixed), M1–M5, T1–T7, G1–G5, C1–C3 — executed, not fabricated.",
+    "lab": {
+      "seed": 20261025,
+      "runtimeMs": 1437.379068,
+      "foundation": {
+        "A_pass": true,
+        "B_pass": true,
+        "C_pass": true,
+        "D_pass": true,
+        "E_pass": true,
+        "allPass": true,
+        "waveOrder": 2.0007377150948127,
+        "planning": {
+          "astar": {
+            "method": "A*",
+            "n": 24,
+            "successRate": 1,
+            "meanLength": 52.83918343834066,
+            "collisionRate": 0,
+            "meanIterations": 185.91666666666666
+          },
+          "wavePhase": {
+            "method": "WaveNode+phase",
+            "n": 24,
+            "successRate": 1,
+            "meanLength": 55.707034568538404,
+            "collisionRate": 0,
+            "meanIterations": 41.416666666666664
+          },
+          "waveAblation": {
+            "method": "WaveNode-ablation",
+            "n": 24,
+            "successRate": 1,
+            "meanLength": 55.765960133637286,
+            "collisionRate": 0,
+            "meanIterations": 41.458333333333336
+          }
+        },
+        "phaseSteeringDelta": {
+          "wavePhaseMeanLength": 55.707034568538404,
+          "waveAblationMeanLength": 55.765960133637286,
+          "lengthDelta": 0.058925565098881805,
+          "note": "Phase = small steering bias on harmonic ascent; not expected to beat A* on path length."
+        }
+      },
+      "train": {
+        "summary": {
+          "n": 8,
+          "viabilityRate": 1,
+          "meanWaveL2": 0.0007360357550425898,
+          "meanPhaseR": 0.9592102941871042,
+          "navSuccessRate": 1,
+          "meanPathLength": 42.35533905932736
+        },
+        "n": 8
+      },
+      "held": {
+        "summary": {
+          "n": 16,
+          "viabilityRate": 1,
+          "meanWaveL2": 0.0009351717296449112,
+          "meanPhaseR": 0.9572499034665924,
+          "navSuccessRate": 1,
+          "meanPathLength": 42.8257710552387,
+          "softPhaseOkRate": 1
+        },
+        "n": 16,
+        "evals": [
+          {
+            "id": "trgm-20261025-1000-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0015939068534284269,
+            "phaseR": 0.9637841155664995,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1001-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0016553170299411708,
+            "phaseR": 0.9537857253340024,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1002-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0005460251280542408,
+            "phaseR": 0.9513484470848714,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1003-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0006624704906803098,
+            "phaseR": 0.9626321716901953,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1004-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0007090538399123386,
+            "phaseR": 0.9536621536366707,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1005-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0008685537871182251,
+            "phaseR": 0.9623563815929751,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1006-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0008906096693043861,
+            "phaseR": 0.9501656387574771,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1007-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0018603999074291618,
+            "phaseR": 0.9571478207300063,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1008-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0008161951978550511,
+            "phaseR": 0.9527205828690963,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1009-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0007060639673931616,
+            "phaseR": 0.9501401938408583,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1010-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0005839014692932434,
+            "phaseR": 0.9583425128495844,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1011-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0009530062574131659,
+            "phaseR": 0.9623419239260386,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1012-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0008351721231077772,
+            "phaseR": 0.9587277008144793,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1013-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0007704137224719638,
+            "phaseR": 0.9648270050678425,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1014-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0007722538306105349,
+            "phaseR": 0.9507533269853796,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          },
+          {
+            "id": "trgm-20261025-1015-L0",
+            "nestLevel": 0,
+            "viable": true,
+            "waveL2": 0.0007394044003054204,
+            "phaseR": 0.9632627547195004,
+            "softSyncOk": true,
+            "navOk": true,
+            "geoPass": true
+          }
+        ]
+      },
+      "nullBaseline": {
+        "viabilityRate": 0,
+        "n": 16
+      },
+      "nesting": {
+        "levels": 2,
+        "allHaveChild": true
+      },
+      "phaseSteering": {
+        "role": "steering_delta",
+        "hardGate": false,
+        "softSyncRMin": 0.95,
+        "softPhaseOkRate": 1,
+        "legacyHardPhaseViabilityRate": 1
+      },
+      "ablationNoPhaseGate": {
+        "viabilityRate": 1
+      },
+      "gates": {
+        "waveL2Max": 0.05,
+        "syncRMinSoft": 0.95,
+        "phaseHardGate": false,
+        "maxPathInflation": 1.35
+      },
+      "summary": {
+        "foundationPass": true,
+        "heldViability": 1,
+        "nullViability": 0,
+        "trgmBeatsNull": true,
+        "nestOk": true,
+        "softPhaseOkRate": 1,
+        "enginePinRecommended": true,
+        "phaseRole": "Foundational steering/coordination delta — soft metric on Kuramoto community; hard viability = geometry + wave + navigation.",
+        "pathInflationNote": "Path inflation gate reserved for Wave–Node vs A* comparisons; TRGM viability uses A* reachability as navigation homeostasis check."
+      }
+    },
+    "historical": {
+      "ok": true,
+      "sourceMode": "live_csv",
+      "sources": {
+        "trajectories": "research/geomagnetic-herbivore/data/trajectories.csv",
+        "kpArchive": "research/geomagnetic-herbivore/data/archive/kp_3hourly_2020-05-15.csv",
+        "study": "Movebank 2548892515 · Snowy Range Moose (Alces alces) 2019-01-01→2020-05-15",
+        "kpLicense": "GFZ Kp · archived 3-hourly aligned to collar window"
+      },
+      "nTrajectoryRows": 123399,
+      "gates": {
+        "trainFraction": 0.6,
+        "structurePctLo": 0.25,
+        "structurePctHi": 0.75,
+        "phaseBeatShuffleMin": 0.55,
+        "minIndividuals": 5
+      },
+      "scored": {
+        "nDays": 268,
+        "nTrain": 160,
+        "nHeld": 108,
+        "dateRange": {
+          "start": "2019-01-01",
+          "end": "2020-05-15"
+        },
+        "structureBand": {
+          "lo": 0.6168774010677307,
+          "hi": 0.9049556549411897
+        },
+        "H1_structureBandPhase": {
+          "pass": false,
+          "inBandN": 87,
+          "outBandN": 21,
+          "inBandMeanPhaseR": 0.04993643215156016,
+          "outBandMeanPhaseR": 0.057987569515559244,
+          "rhoStructureVsPhaseHeld": -0.027199024455305,
+          "interpretation": "Held-out structure Goldilocks band did not raise mean phase order vs out-of-band (mixed/null)."
+        },
+        "H2_phaseBeatsShuffle": {
+          "pass": false,
+          "beatShuffleRate": 0.46296296296296297,
+          "threshold": 0.55,
+          "meanPhaseR": 0.05150193108344887,
+          "meanShuffleR": 0.05150193108344887,
+          "interpretation": "Real headings beat shuffle on only 46.3% of held-out days (threshold 55%) — weak/null coordination signal."
+        },
+        "H3_stormVsQuietPhase": {
+          "pass": true,
+          "stormN": 6,
+          "quietN": 102,
+          "stormMeanPhaseR": 0.05720705322913977,
+          "quietMeanPhaseR": 0.05116633566311411,
+          "delta": 0.006040717566025658,
+          "interpretation": "Storm vs quiet mean phase Δ=0.00604 on held-out days (n_storm=6)."
+        }
+      },
+      "hypotheses": [
+        {
+          "id": "H1",
+          "title": "Historical structure Goldilocks → higher held-out heading order (Movebank)",
+          "pass": false,
+          "detail": {
+            "pass": false,
+            "inBandN": 87,
+            "outBandN": 21,
+            "inBandMeanPhaseR": 0.04993643215156016,
+            "outBandMeanPhaseR": 0.057987569515559244,
+            "rhoStructureVsPhaseHeld": -0.027199024455305,
+            "interpretation": "Held-out structure Goldilocks band did not raise mean phase order vs out-of-band (mixed/null)."
+          },
+          "evidence": "empirically_observed",
+          "data": "historical_movebank_gps"
+        },
+        {
+          "id": "H2",
+          "title": "Historical heading order beats day-matched shuffle null",
+          "pass": false,
+          "detail": {
+            "pass": false,
+            "beatShuffleRate": 0.46296296296296297,
+            "threshold": 0.55,
+            "meanPhaseR": 0.05150193108344887,
+            "meanShuffleR": 0.05150193108344887,
+            "interpretation": "Real headings beat shuffle on only 46.3% of held-out days (threshold 55%) — weak/null coordination signal."
+          },
+          "evidence": "empirically_observed",
+          "data": "historical_movebank_gps"
+        },
+        {
+          "id": "H3",
+          "title": "Historical storm vs quiet heading-order contrast (GFZ Kp ∩ collar window)",
+          "pass": true,
+          "detail": {
+            "pass": true,
+            "stormN": 6,
+            "quietN": 102,
+            "stormMeanPhaseR": 0.05720705322913977,
+            "quietMeanPhaseR": 0.05116633566311411,
+            "delta": 0.006040717566025658,
+            "interpretation": "Storm vs quiet mean phase Δ=0.00604 on held-out days (n_storm=6)."
+          },
+          "evidence": "empirically_observed",
+          "data": "historical_gfz_kp_archive"
+        }
+      ],
+      "n_pass": 1,
+      "n_total": 3,
+      "all_pass": false
+    },
+    "molecular": {
+      "ok": true,
+      "theater": {
+        "role": "physical_theater",
+        "description": "DNA/chromosome polymer is the physical Wave–Node theater where TRGM recipes execute",
+        "bpRiseM": 3.4e-10,
+        "bpRiseAliasM": 3.4e-10,
+        "lambdaEgs": 0.07658724063250828,
+        "phiEgs": 1.618033988749895,
+        "vpBand": {
+          "low": 16000000,
+          "mid": 20000000,
+          "high": 24000000
+        },
+        "targetChroms": [
+          "chrY",
+          "chr1",
+          "chr21",
+          "chrX"
+        ],
+        "honesty": "Molecular theater is a computational scaffold from public T2T chrom sizes + B-DNA/LC grammar — not wet biology, not genomic consciousness, not clinical genetics."
+      },
+      "hs1": {
+        "assembly": "hs1 (T2T-CHM13v2.0)",
+        "source": "/workspace/research/synthobs-dna-lattice-holograph/data/hs1.chrom.sizes",
+        "nChroms": 25,
+        "fixture": "/workspace/research/synthobs-tiny-reality-generation-model/data/molecular/hs1.chrom.sizes"
+      },
+      "chromRows": [
+        {
+          "chrom": "chrY",
+          "bp": 62460029,
+          "lengthM": 0.02123640986,
+          "nodeCount": 48,
+          "vgAtZero": 20000000,
+          "vpInBand": true
+        },
+        {
+          "chrom": "chr1",
+          "bp": 248387328,
+          "lengthM": 0.08445169152,
+          "nodeCount": 48,
+          "vgAtZero": 20000000,
+          "vpInBand": true
+        },
+        {
+          "chrom": "chr21",
+          "bp": 45090682,
+          "lengthM": 0.015330831880000001,
+          "nodeCount": 48,
+          "vgAtZero": 20000000,
+          "vpInBand": true
+        },
+        {
+          "chrom": "chrX",
+          "bp": 154259566,
+          "lengthM": 0.05244825244,
+          "nodeCount": 48,
+          "vgAtZero": 20000000,
+          "vpInBand": true
+        }
+      ],
+      "host": {
+        "chrom": "chr1",
+        "bp": 248387328,
+        "lengthM": 0.08445169152
+      },
+      "held": {
+        "n": 16,
+        "viabilityRate": 1,
+        "softPhaseOkRate": 1,
+        "meanWaveL2": 0.0007836590560045647,
+        "meanPhaseR": 0.9560045902489624
+      },
+      "nullBaseline": {
+        "viabilityRate": 0
+      },
+      "hypotheses": [
+        {
+          "id": "M1",
+          "title": "Public hs1 chrom sizes + B-DNA rise build valid molecular theater geometry",
+          "pass": true,
+          "detail": {
+            "assembly": "hs1 (T2T-CHM13v2.0)",
+            "nChromsLoaded": 25,
+            "targetChroms": [
+              {
+                "chrom": "chrY",
+                "bp": 62460029,
+                "lengthM": 0.02123640986,
+                "nodes": 48,
+                "spacingPass": true
+              },
+              {
+                "chrom": "chr1",
+                "bp": 248387328,
+                "lengthM": 0.08445169152,
+                "nodes": 48,
+                "spacingPass": true
+              },
+              {
+                "chrom": "chr21",
+                "bp": 45090682,
+                "lengthM": 0.015330831880000001,
+                "nodes": 48,
+                "spacingPass": true
+              },
+              {
+                "chrom": "chrX",
+                "bp": 154259566,
+                "lengthM": 0.05244825244,
+                "nodes": 48,
+                "spacingPass": true
+              }
+            ],
+            "deltaXM": 3.4e-10
+          },
+          "interpretation": "T2T hs1 theaters for chrY, chr1, chr21, chrX match bp×3.4e-10 m rise spacing.",
+          "evidence": "numerically_verified",
+          "data": "historical_ucsc_hs1"
+        },
+        {
+          "id": "M2",
+          "title": "TRGM recipes execute on DNA/chromosome theater with hard geo+wave+nav viability",
+          "pass": true,
+          "detail": {
+            "hostChrom": "chr1",
+            "hostBp": 248387328,
+            "n": 16,
+            "viabilityRate": 1,
+            "softPhaseOkRate": 1,
+            "meanWaveL2": 0.0007836590560045647,
+            "meanPhaseR": 0.9560045902489624,
+            "navSuccessRate": 1
+          },
+          "interpretation": "Held-out TRGM on chr1 theater viability 100.0% (hard gates).",
+          "evidence": "empirically_observed",
+          "data": "molecular_theater_synthetic_on_hs1"
+        },
+        {
+          "id": "M3",
+          "title": "DNA theater structured TRGM beats null unstructured scatter",
+          "pass": true,
+          "detail": {
+            "molViability": 1,
+            "nullRate": 0
+          },
+          "interpretation": "Chromosome-theater TRGM out-viables null scatters under hard gates.",
+          "evidence": "empirically_observed",
+          "data": "molecular_theater_vs_null"
+        },
+        {
+          "id": "M4",
+          "title": "LC wave theater: vg(0) in literature band; Brillouin edge vg→0",
+          "pass": true,
+          "detail": [
+            {
+              "chrom": "chrY",
+              "vgAtZero": 20000000,
+              "vpInBand": true,
+              "bandEdgeVgIsZero": true
+            },
+            {
+              "chrom": "chr1",
+              "vgAtZero": 20000000,
+              "vpInBand": true,
+              "bandEdgeVgIsZero": true
+            },
+            {
+              "chrom": "chr21",
+              "vgAtZero": 20000000,
+              "vpInBand": true,
+              "bandEdgeVgIsZero": true
+            },
+            {
+              "chrom": "chrX",
+              "vgAtZero": 20000000,
+              "vpInBand": true,
+              "bandEdgeVgIsZero": true
+            }
+          ],
+          "interpretation": "Molecular LC dispersion sits in published nucleoprotein vp band with vanishing edge vg.",
+          "evidence": "numerically_verified",
+          "data": "chromosomal_lc_literature"
+        },
+        {
+          "id": "M5",
+          "title": "Phase remains soft steering delta on molecular theater (not hard gate)",
+          "pass": true,
+          "detail": {
+            "softPhaseOkRate": 1,
+            "hardGate": false
+          },
+          "interpretation": "On DNA theater, phase stays a foundational steering/coordination delta — hard viability still geo+wave+nav.",
+          "evidence": "empirically_observed",
+          "data": "molecular_theater_synthetic_on_hs1"
+        }
+      ],
+      "n_pass": 5,
+      "n_total": 5,
+      "all_pass": true
+    },
+    "triadic": {
+      "ok": true,
+      "hypothesis": "A 10 bits/s biological reality stream pipe feeds intelligently structured three-symbol cyclic input, clocked by rotating polygon spin, into an Infinite Octave recursive holographic-rhyme tree on folded compact DNA — coherent structure with beneficial outcomes.",
+      "host": {
+        "chrom": "chr1",
+        "bp": 248387328
+      },
+      "polygonSides": 9,
+      "octaveDepth": 3,
+      "nucleosome": {
+        "wrapBp": 147,
+        "turns": 1.65
+      },
+      "bioPipe": {
+        "schema": "trgm-biological-reality-pipe/v1",
+        "kind": "biological_reality_stream",
+        "role": "Rate-limited biological reality stream pipe (10 bit/s) feeding the triad clock",
+        "bitRateBps": 10,
+        "alphabet": [
+          0,
+          1,
+          2
+        ],
+        "alphabetBits": 1.584962500721156,
+        "symbolsPerSecond": 6.309297535714575,
+        "streamLength": 27,
+        "durationSec": 4.279398751947121,
+        "informationBits": 42.793987519471216,
+        "effectiveBitRateBps": 10.000000000000002,
+        "channelMap": {
+          "0": "wave",
+          "1": "node",
+          "2": "fq"
+        },
+        "honesty": "Architectural Soft Story bandwidth (10 bit/s biological reality stream) — not measured neural bitrate, not wet-lab genetics, not gene→physics."
+      },
+      "conditions": {
+        "full": {
+          "n": 12,
+          "viabilityRate": 1,
+          "meanCoherence": 1,
+          "benefitRate": 1,
+          "meanWaveL2": 0.0008939940542806352,
+          "meanPhaseR": 0.958414986753143,
+          "navSuccessRate": 1,
+          "softPhaseOkRate": 1,
+          "streamKind": "structured_cyclic",
+          "treeKind": "infinite_octave_holographic_rhyme_tree",
+          "hostKind": "folded_compact_dna",
+          "clockSyncRate": 1,
+          "treeCoherent": true,
+          "compactionRatio": 18.80891466825322,
+          "bioPipeBitRateBps": 10,
+          "hasBioPipe": true
+        },
+        "unstructured": {
+          "n": 12,
+          "viabilityRate": 1,
+          "meanCoherence": 0.9111111111111113,
+          "benefitRate": 1,
+          "meanWaveL2": 0.0007428322653389129,
+          "meanPhaseR": 0.9561773701082777,
+          "navSuccessRate": 1,
+          "softPhaseOkRate": 1,
+          "streamKind": "unstructured_noise",
+          "treeKind": "infinite_octave_holographic_rhyme_tree",
+          "hostKind": "folded_compact_dna",
+          "clockSyncRate": 0.4074074074074074,
+          "treeCoherent": true,
+          "compactionRatio": 18.80891466825322,
+          "bioPipeBitRateBps": null,
+          "hasBioPipe": false
+        },
+        "unclocked": {
+          "n": 12,
+          "viabilityRate": 1,
+          "meanCoherence": 0.8499999999999998,
+          "benefitRate": 1,
+          "meanWaveL2": 0.0009942904667939922,
+          "meanPhaseR": 0.9594481505415668,
+          "navSuccessRate": 1,
+          "softPhaseOkRate": 1,
+          "streamKind": "structured_but_unclocked",
+          "treeKind": "infinite_octave_holographic_rhyme_tree",
+          "hostKind": "folded_compact_dna",
+          "clockSyncRate": 0,
+          "treeCoherent": true,
+          "compactionRatio": 18.80891466825322,
+          "bioPipeBitRateBps": null,
+          "hasBioPipe": false
+        },
+        "flat": {
+          "n": 12,
+          "viabilityRate": 1,
+          "meanCoherence": 0.6500000000000001,
+          "benefitRate": 0,
+          "meanWaveL2": 0.000770301258131911,
+          "meanPhaseR": 0.9559518409383277,
+          "navSuccessRate": 1,
+          "softPhaseOkRate": 1,
+          "streamKind": "structured_cyclic",
+          "treeKind": "flat_no_octave_tree",
+          "hostKind": "folded_compact_dna",
+          "clockSyncRate": 1,
+          "treeCoherent": false,
+          "compactionRatio": 18.80891466825322,
+          "bioPipeBitRateBps": null,
+          "hasBioPipe": false
+        },
+        "unfolded": {
+          "n": 12,
+          "viabilityRate": 1,
+          "meanCoherence": 0.8499999999999998,
+          "benefitRate": 1,
+          "meanWaveL2": 0.0008939940542806352,
+          "meanPhaseR": 0.958414986753143,
+          "navSuccessRate": 1,
+          "softPhaseOkRate": 1,
+          "streamKind": "structured_cyclic",
+          "treeKind": "infinite_octave_holographic_rhyme_tree",
+          "hostKind": "linear_unfolded_dna",
+          "clockSyncRate": 1,
+          "treeCoherent": true,
+          "compactionRatio": 1,
+          "bioPipeBitRateBps": null,
+          "hasBioPipe": false
+        }
+      },
+      "hypotheses": [
+        {
+          "id": "T1",
+          "title": "Intelligently structured three-symbol cyclic input stream is well-formed",
+          "pass": true,
+          "detail": {
+            "alphabet": [
+              0,
+              1,
+              2
+            ],
+            "period": 9,
+            "cycles": 3,
+            "length": 27,
+            "counts": [
+              9,
+              9,
+              9
+            ],
+            "entropy": 1.584962500721156,
+            "maxEntropy": 1.584962500721156,
+            "motif": [
+              0,
+              2,
+              2,
+              1,
+              1,
+              1,
+              0,
+              0,
+              2
+            ]
+          },
+          "interpretation": "Structured Σ={0,1,2} stream covers all symbols over 3× period-9 cycles (H=1.585).",
+          "evidence": "numerically_verified",
+          "data": "synthetic_triadic_stream"
+        },
+        {
+          "id": "T2",
+          "title": "Rotating polygon spin clocks the three-symbol stream",
+          "pass": true,
+          "detail": {
+            "sides": 9,
+            "clockSyncRate": 1,
+            "nTicks": 27
+          },
+          "interpretation": "9-gon spin locks stream symbols to vertices (sync=100.0%).",
+          "evidence": "numerically_verified",
+          "data": "synthetic_polygon_spin"
+        },
+        {
+          "id": "T3",
+          "title": "Infinite Octave recursive holographic-rhyme tree encodes the stream coherently",
+          "pass": true,
+          "detail": {
+            "depth": 3,
+            "nLayers": 7,
+            "phiIdentity": true,
+            "shrinkOk": true,
+            "reconstructible": true
+          },
+          "interpretation": "Φ_EGS octave tree (7 layers, depth ±3) is coherent under holographic rhyme grammar.",
+          "evidence": "numerically_verified",
+          "data": "synthetic_octave_tree"
+        },
+        {
+          "id": "T4",
+          "title": "Folded compact DNA (nucleosome wrap) hosts the tree with compaction > 1",
+          "pass": true,
+          "detail": {
+            "hostChrom": "chr1",
+            "hostBp": 248387328,
+            "wrapBp": 147,
+            "turns": 1.65,
+            "phiEgs": 1.618033988749895,
+            "windingNearPhi": true,
+            "nSpools": 1689709,
+            "compactionRatio": 18.80891466825322
+          },
+          "interpretation": "chr1 folded into 1689709× 147-bp spools (1.65 turns); compaction=18.81.",
+          "evidence": "numerically_verified",
+          "data": "hs1_folded_compact_dna"
+        },
+        {
+          "id": "T5",
+          "title": "Full stack (structured+clocked+tree+folded) beats ablations on coherence architecture",
+          "pass": true,
+          "detail": {
+            "beatsUnstructured": true,
+            "beatsUnclocked": true,
+            "beatsFlat": true,
+            "beatsUnfolded": true,
+            "conditions": {
+              "full": {
+                "n": 12,
+                "viabilityRate": 1,
+                "meanCoherence": 1,
+                "benefitRate": 1,
+                "meanWaveL2": 0.0008939940542806352,
+                "meanPhaseR": 0.958414986753143,
+                "navSuccessRate": 1,
+                "softPhaseOkRate": 1,
+                "streamKind": "structured_cyclic",
+                "treeKind": "infinite_octave_holographic_rhyme_tree",
+                "hostKind": "folded_compact_dna",
+                "clockSyncRate": 1,
+                "treeCoherent": true,
+                "compactionRatio": 18.80891466825322,
+                "bioPipeBitRateBps": 10,
+                "hasBioPipe": true
+              },
+              "unstructured": {
+                "n": 12,
+                "viabilityRate": 1,
+                "meanCoherence": 0.9111111111111113,
+                "benefitRate": 1,
+                "meanWaveL2": 0.0007428322653389129,
+                "meanPhaseR": 0.9561773701082777,
+                "navSuccessRate": 1,
+                "softPhaseOkRate": 1,
+                "streamKind": "unstructured_noise",
+                "treeKind": "infinite_octave_holographic_rhyme_tree",
+                "hostKind": "folded_compact_dna",
+                "clockSyncRate": 0.4074074074074074,
+                "treeCoherent": true,
+                "compactionRatio": 18.80891466825322,
+                "bioPipeBitRateBps": null,
+                "hasBioPipe": false
+              },
+              "unclocked": {
+                "n": 12,
+                "viabilityRate": 1,
+                "meanCoherence": 0.8499999999999998,
+                "benefitRate": 1,
+                "meanWaveL2": 0.0009942904667939922,
+                "meanPhaseR": 0.9594481505415668,
+                "navSuccessRate": 1,
+                "softPhaseOkRate": 1,
+                "streamKind": "structured_but_unclocked",
+                "treeKind": "infinite_octave_holographic_rhyme_tree",
+                "hostKind": "folded_compact_dna",
+                "clockSyncRate": 0,
+                "treeCoherent": true,
+                "compactionRatio": 18.80891466825322,
+                "bioPipeBitRateBps": null,
+                "hasBioPipe": false
+              },
+              "flat": {
+                "n": 12,
+                "viabilityRate": 1,
+                "meanCoherence": 0.6500000000000001,
+                "benefitRate": 0,
+                "meanWaveL2": 0.000770301258131911,
+                "meanPhaseR": 0.9559518409383277,
+                "navSuccessRate": 1,
+                "softPhaseOkRate": 1,
+                "streamKind": "structured_cyclic",
+                "treeKind": "flat_no_octave_tree",
+                "hostKind": "folded_compact_dna",
+                "clockSyncRate": 1,
+                "treeCoherent": false,
+                "compactionRatio": 18.80891466825322,
+                "bioPipeBitRateBps": null,
+                "hasBioPipe": false
+              },
+              "unfolded": {
+                "n": 12,
+                "viabilityRate": 1,
+                "meanCoherence": 0.8499999999999998,
+                "benefitRate": 1,
+                "meanWaveL2": 0.0008939940542806352,
+                "meanPhaseR": 0.958414986753143,
+                "navSuccessRate": 1,
+                "softPhaseOkRate": 1,
+                "streamKind": "structured_cyclic",
+                "treeKind": "infinite_octave_holographic_rhyme_tree",
+                "hostKind": "linear_unfolded_dna",
+                "clockSyncRate": 1,
+                "treeCoherent": true,
+                "compactionRatio": 1,
+                "bioPipeBitRateBps": null,
+                "hasBioPipe": false
+              }
+            }
+          },
+          "interpretation": "Full triadic–polygon–octave–folded-DNA stack outranks unstructured/unclocked/flat/unfolded ablations.",
+          "evidence": "empirically_observed",
+          "data": "ablation_battery"
+        },
+        {
+          "id": "T6",
+          "title": "Full stack produces beneficial outcomes (viability + coherence benefit band)",
+          "pass": true,
+          "detail": {
+            "full": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 1,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0008939940542806352,
+              "meanPhaseR": 0.958414986753143,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_cyclic",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 1,
+              "treeCoherent": true,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": 10,
+              "hasBioPipe": true
+            },
+            "gateWaveL2Max": 0.05,
+            "gateSyncRMin": 0.95
+          },
+          "interpretation": "Full stack benefitRate=100.0%, viability=100.0%, meanCoherence=1.000.",
+          "evidence": "empirically_observed",
+          "data": "trgm_on_triadic_octave_dna_stack"
+        },
+        {
+          "id": "T7",
+          "title": "10 bits/s biological reality stream pipe feeds the triad architecture",
+          "pass": true,
+          "detail": {
+            "bitRateBps": 10,
+            "alphabetBits": 1.584962500721156,
+            "symbolsPerSecond": 6.309297535714575,
+            "streamLength": 27,
+            "durationSec": 4.279398751947121,
+            "informationBits": 42.793987519471216,
+            "effectiveBitRateBps": 10.000000000000002,
+            "channelMap": {
+              "0": "wave",
+              "1": "node",
+              "2": "fq"
+            },
+            "fullStackHasPipe": true,
+            "scheduleTicks": 27
+          },
+          "interpretation": "Biological reality pipe locked at 10 bit/s · 27 triad ticks · duration≈4.279 s · H/symbol≈1.585.",
+          "evidence": "numerically_verified",
+          "data": "biological_reality_pipe_10bps"
+        }
+      ],
+      "n_pass": 7,
+      "n_total": 7,
+      "all_pass": true
+    },
+    "genetic": {
+      "ok": true,
+      "provenance": {
+        "fetchedAt": "2026-10-25T19:29:40Z",
+        "files": {
+          "chrM.hs1.fa": {
+            "genome": "hs1",
+            "chrom": "chrM",
+            "length": 16569,
+            "api": "UCSC getData/sequence"
+          },
+          "genes.panel.json": {
+            "assembly": "GRCh38/hg38",
+            "n": 10,
+            "api": "GTEx v2 reference/gene"
+          },
+          "exons.panel.json": {
+            "assembly": "GRCh38/hg38",
+            "n": 125,
+            "api": "MyGene.info v3"
+          },
+          "cpg.panel.json": {
+            "assembly": "GRCh38/hg38",
+            "n": 48,
+            "api": "UCSC cpgIslandExt"
+          },
+          "hg38.chrom.sizes": {
+            "genome": "hg38",
+            "api": "UCSC goldenPath"
+          }
+        },
+        "honesty": "Pinned public subsets for offline CI. Gene/exon/CpG = GRCh38; chrM sequence = hs1 T2T. Not clinical genetics."
+      },
+      "fixtureDir": "/workspace/research/synthobs-tiny-reality-generation-model/data/molecular/genetic",
+      "summary": {
+        "nGenes": 10,
+        "nExons": 125,
+        "nCds": 9,
+        "nCpg": 48,
+        "chrM": {
+          "length": 16569,
+          "gcPercent": 44.37202003741928,
+          "cpgObsExp": 0.6411667702748322
+        },
+        "host": {
+          "chrom": "chr21",
+          "bp": 45090682,
+          "viability": 1
+        },
+        "cpgEnrichment": 195.91836734693877
+      },
+      "geneticNodes": {
+        "n": 194,
+        "byKind": {
+          "gene": 10,
+          "exon": 125,
+          "cds": 9,
+          "cpg_island": 50
+        }
+      },
+      "hypotheses": [
+        {
+          "id": "G1",
+          "title": "Real gene panel nodes load within GRCh38 chrom bounds",
+          "pass": true,
+          "detail": {
+            "nGenes": 10,
+            "symbols": [
+              "INS",
+              "PDX1",
+              "POMC",
+              "NPY",
+              "DNMT1",
+              "DNMT3A",
+              "APP",
+              "SOD1",
+              "DYRK1A",
+              "TMPRSS2"
+            ],
+            "assembly": "GRCh38/hg38",
+            "source": "GTEx Portal API v2 reference/gene",
+            "allWithinChrom": true
+          },
+          "interpretation": "Loaded 10 GTEx gene nodes; all within hg38 chrom sizes.",
+          "evidence": "empirically_observed",
+          "data": "gtex_gene_panel_grch38"
+        },
+        {
+          "id": "G2",
+          "title": "Exon nodes nest under genes; CDS lengths are codon-compatible (mod 3 = 0)",
+          "pass": true,
+          "detail": {
+            "nExons": 125,
+            "exonNestRate": 1,
+            "nCds": 9,
+            "cdsCompatibleRate": 1,
+            "cdsOk": true,
+            "cds": [
+              {
+                "symbol": "INS",
+                "lengthBp": 333,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "PDX1",
+                "lengthBp": 852,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "POMC",
+                "lengthBp": 804,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "NPY",
+                "lengthBp": 294,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "DNMT1",
+                "lengthBp": 4899,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "APP",
+                "lengthBp": 1983,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "SOD1",
+                "lengthBp": 465,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "DYRK1A",
+                "lengthBp": 2265,
+                "mod3": 0,
+                "codonCompatible": true
+              },
+              {
+                "symbol": "TMPRSS2",
+                "lengthBp": 1479,
+                "mod3": 0,
+                "codonCompatible": true
+              }
+            ],
+            "source": "MyGene.info v3"
+          },
+          "interpretation": "MyGene exons 125 nest (rate=100.0%); CDS codon-compatible rate=100.0%.",
+          "evidence": "empirically_observed",
+          "data": "mygene_exon_panel_grch38"
+        },
+        {
+          "id": "G3",
+          "title": "Real hs1 chrM FASTA composition is well-formed (GC + CpG obs/exp)",
+          "pass": true,
+          "detail": {
+            "id": "chrM",
+            "length": 16569,
+            "counts": {
+              "A": 5124,
+              "C": 5183,
+              "G": 2169,
+              "T": 4093,
+              "N": 0,
+              "other": 0
+            },
+            "gcFraction": 0.4437202003741928,
+            "gcPercent": 44.37202003741928,
+            "cpgCount": 435,
+            "cpgObsExp": 0.6411667702748322,
+            "alphabetOk": true,
+            "expectedLength": 16569,
+            "source": "UCSC hs1 getData/sequence"
+          },
+          "interpretation": "chrM hs1 length=16569 · GC=44.37% · CpG obs/exp=0.641.",
+          "evidence": "numerically_verified",
+          "data": "ucsc_hs1_chrM_fasta"
+        },
+        {
+          "id": "G4",
+          "title": "Public CpG islands in gene±50kb windows enrich vs chrom-shuffled null",
+          "pass": true,
+          "detail": {
+            "nIslands": 48,
+            "nullMeanHits": 0.245,
+            "enrichment": 195.91836734693877,
+            "nullTrials": 200,
+            "source": "UCSC API getData/track cpgIslandExt"
+          },
+          "interpretation": "CpG panel n=48 enriches 195.92× vs shuffled null (mean=0.24).",
+          "evidence": "empirically_observed",
+          "data": "ucsc_hg38_cpgIslandExt_gene_windows"
+        },
+        {
+          "id": "G5",
+          "title": "Gene nodes project onto DNA theater, survive nucleosome fold, TRGM stays viable",
+          "pass": true,
+          "detail": {
+            "hostChrom": "chr21",
+            "hostBp": 45090682,
+            "nProjectedGenes": 4,
+            "orderPreserved": true,
+            "compactionRatio": 18.80891466825322,
+            "wrapBp": 147,
+            "turns": 1.65,
+            "viabilityRate": 1,
+            "nHeld": 8
+          },
+          "interpretation": "Host chr21: gene order preserved under fold (compaction=18.81); TRGM viability 100.0%.",
+          "evidence": "empirically_observed",
+          "data": "genetic_nodes_on_hs1_theater"
+        }
+      ],
+      "n_pass": 5,
+      "n_total": 5,
+      "all_pass": true
+    },
+    "catalog": {
+      "ok": true,
+      "catalogPath": "/workspace/research/synthobs-tiny-reality-generation-model/data/molecular/genetic/wave_node_fq_catalog.json",
+      "summary": {
+        "nEntries": 199,
+        "nGenes": 10,
+        "byChannel": {
+          "wave": 54,
+          "node": 130,
+          "fq": 15
+        },
+        "genesByChannel": {
+          "wave": [
+            "DNMT1",
+            "DNMT3A"
+          ],
+          "node": [
+            "APP",
+            "SOD1",
+            "DYRK1A",
+            "TMPRSS2"
+          ],
+          "fq": [
+            "INS",
+            "PDX1",
+            "POMC",
+            "NPY"
+          ]
+        },
+        "chrM": {
+          "length": 16569,
+          "gcPercent": 44.37202003741928,
+          "f0Hz": 1775108015322.7324
+        },
+        "nucleosome": {
+          "wrapBp": 147,
+          "turns": 1.65
+        }
+      },
+      "triadInputs": {
+        "wave": {
+          "symbol": 0,
+          "key": "wave",
+          "label": "wave",
+          "role": "Wave field · sequence composition · LC dispersion theater"
+        },
+        "node": {
+          "symbol": 1,
+          "key": "node",
+          "label": "node",
+          "role": "Discrete lattice · gene/exon locus placement on polymer theater"
+        },
+        "fq": {
+          "symbol": 2,
+          "key": "fq",
+          "label": "fq",
+          "role": "Frequency · codon reading-frame rhythm · nucleosome period · length→f₀"
+        }
+      },
+      "genesByChannel": {
+        "wave": [
+          "DNMT1",
+          "DNMT3A"
+        ],
+        "node": [
+          "APP",
+          "SOD1",
+          "DYRK1A",
+          "TMPRSS2"
+        ],
+        "fq": [
+          "INS",
+          "PDX1",
+          "POMC",
+          "NPY"
+        ]
+      },
+      "hypotheses": [
+        {
+          "id": "C1",
+          "title": "Genetic-node catalog assigns every feature to wave / node / fq",
+          "pass": true,
+          "detail": {
+            "nEntries": 199,
+            "nGenes": 10,
+            "byChannel": {
+              "wave": 54,
+              "node": 130,
+              "fq": 15
+            },
+            "catalogPath": "/workspace/research/synthobs-tiny-reality-generation-model/data/molecular/genetic/wave_node_fq_catalog.json"
+          },
+          "interpretation": "Catalogued 199 genetic features across wave/node/fq (54/130/15).",
+          "evidence": "numerically_verified",
+          "data": "wave_node_fq_catalog"
+        },
+        {
+          "id": "C2",
+          "title": "Each triad input has ≥1 gene primary and ≥2 feature kinds",
+          "pass": true,
+          "detail": {
+            "genesByChannel": {
+              "wave": [
+                "DNMT1",
+                "DNMT3A"
+              ],
+              "node": [
+                "APP",
+                "SOD1",
+                "DYRK1A",
+                "TMPRSS2"
+              ],
+              "fq": [
+                "INS",
+                "PDX1",
+                "POMC",
+                "NPY"
+              ]
+            },
+            "kindsByChannel": {
+              "wave": [
+                "cpg_island",
+                "gene",
+                "sequence_composition",
+                "lc_dispersion"
+              ],
+              "node": [
+                "exon",
+                "gene",
+                "theater_scaffold"
+              ],
+              "fq": [
+                "gene",
+                "cds",
+                "nucleosome_period",
+                "fundamental_frequency"
+              ]
+            }
+          },
+          "interpretation": "wave←DNMT1,DNMT3A · node←APP,SOD1,DYRK1A,TMPRSS2 · fq←INS,PDX1,POMC,NPY.",
+          "evidence": "empirically_observed",
+          "data": "wave_node_fq_catalog"
+        },
+        {
+          "id": "C3",
+          "title": "Three-symbol stream locks to wave=0 · node=1 · fq=2 and visits all channels",
+          "pass": true,
+          "detail": {
+            "symbolToInput": {
+              "0": "wave",
+              "1": "node",
+              "2": "fq"
+            },
+            "motif": [
+              0,
+              2,
+              2,
+              1,
+              1,
+              1,
+              0,
+              0,
+              2
+            ],
+            "motifChannelSequence": [
+              "wave",
+              "fq",
+              "fq",
+              "node",
+              "node",
+              "node",
+              "wave",
+              "wave",
+              "fq"
+            ],
+            "motifCover": [
+              "wave",
+              "fq",
+              "node"
+            ]
+          },
+          "interpretation": "Σ={0,1,2} ↔ {wave,node,fq}; structured motif visits all three channels each polygon period.",
+          "evidence": "numerically_verified",
+          "data": "triadic_symbol_wave_node_fq_lock"
+        }
+      ],
+      "n_pass": 3,
+      "n_total": 3,
+      "all_pass": true
+    },
+    "experiments": [
+      {
+        "id": "E1",
+        "title": "Wave–Node foundation A–E still pass (imported battery)",
+        "pass": true,
+        "foundation": {
+          "A_pass": true,
+          "B_pass": true,
+          "C_pass": true,
+          "D_pass": true,
+          "E_pass": true,
+          "allPass": true,
+          "waveOrder": 2.0007377150948127,
+          "planning": {
+            "astar": {
+              "method": "A*",
+              "n": 24,
+              "successRate": 1,
+              "meanLength": 52.83918343834066,
+              "collisionRate": 0,
+              "meanIterations": 185.91666666666666
+            },
+            "wavePhase": {
+              "method": "WaveNode+phase",
+              "n": 24,
+              "successRate": 1,
+              "meanLength": 55.707034568538404,
+              "collisionRate": 0,
+              "meanIterations": 41.416666666666664
+            },
+            "waveAblation": {
+              "method": "WaveNode-ablation",
+              "n": 24,
+              "successRate": 1,
+              "meanLength": 55.765960133637286,
+              "collisionRate": 0,
+              "meanIterations": 41.458333333333336
+            }
+          },
+          "phaseSteeringDelta": {
+            "wavePhaseMeanLength": 55.707034568538404,
+            "waveAblationMeanLength": 55.765960133637286,
+            "lengthDelta": 0.058925565098881805,
+            "note": "Phase = small steering bias on harmonic ascent; not expected to beat A* on path length."
+          }
+        },
+        "interpretation": "Foundation intact · FDTD order ≈ 2.001",
+        "evidence": "numerically_verified",
+        "data": "synthetic"
+      },
+      {
+        "id": "E2",
+        "title": "Held-out tiny-reality Goldilocks viability",
+        "pass": true,
+        "held": {
+          "n": 16,
+          "viabilityRate": 1,
+          "meanWaveL2": 0.0009351717296449112,
+          "meanPhaseR": 0.9572499034665924,
+          "navSuccessRate": 1,
+          "meanPathLength": 42.8257710552387,
+          "softPhaseOkRate": 1
+        },
+        "interpretation": "Held-out viability 100.0% (n=16).",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      },
+      {
+        "id": "E3",
+        "title": "TRGM beats null unstructured scatter on viability",
+        "pass": true,
+        "trgm": 1,
+        "nullRate": 0,
+        "interpretation": "Structured Wave–Node scaffolds out-viable random scatters under pre-registered gates.",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      },
+      {
+        "id": "E4",
+        "title": "Nested L0→L1 child descriptors present",
+        "pass": true,
+        "nesting": {
+          "levels": 2,
+          "allHaveChild": true
+        },
+        "interpretation": "Every held-out L0 reality carries an L1 nested child recipe.",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      },
+      {
+        "id": "E5",
+        "title": "Phase is steering delta (soft); hard viability = geo+wave+nav",
+        "pass": true,
+        "softPhaseOkRate": 1,
+        "hardGate": false,
+        "interpretation": "Foundational steering/coordination delta — soft metric on Kuramoto community; hard viability = geometry + wave + navigation.",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      },
+      {
+        "id": "M1",
+        "title": "Public hs1 chrom sizes + B-DNA rise build valid molecular theater geometry",
+        "pass": true,
+        "interpretation": "T2T hs1 theaters for chrY, chr1, chr21, chrX match bp×3.4e-10 m rise spacing.",
+        "detail": {
+          "assembly": "hs1 (T2T-CHM13v2.0)",
+          "nChromsLoaded": 25,
+          "targetChroms": [
+            {
+              "chrom": "chrY",
+              "bp": 62460029,
+              "lengthM": 0.02123640986,
+              "nodes": 48,
+              "spacingPass": true
+            },
+            {
+              "chrom": "chr1",
+              "bp": 248387328,
+              "lengthM": 0.08445169152,
+              "nodes": 48,
+              "spacingPass": true
+            },
+            {
+              "chrom": "chr21",
+              "bp": 45090682,
+              "lengthM": 0.015330831880000001,
+              "nodes": 48,
+              "spacingPass": true
+            },
+            {
+              "chrom": "chrX",
+              "bp": 154259566,
+              "lengthM": 0.05244825244,
+              "nodes": 48,
+              "spacingPass": true
+            }
+          ],
+          "deltaXM": 3.4e-10
+        },
+        "evidence": "numerically_verified",
+        "data": "historical_ucsc_hs1"
+      },
+      {
+        "id": "M2",
+        "title": "TRGM recipes execute on DNA/chromosome theater with hard geo+wave+nav viability",
+        "pass": true,
+        "interpretation": "Held-out TRGM on chr1 theater viability 100.0% (hard gates).",
+        "detail": {
+          "hostChrom": "chr1",
+          "hostBp": 248387328,
+          "n": 16,
+          "viabilityRate": 1,
+          "softPhaseOkRate": 1,
+          "meanWaveL2": 0.0007836590560045647,
+          "meanPhaseR": 0.9560045902489624,
+          "navSuccessRate": 1
+        },
+        "evidence": "empirically_observed",
+        "data": "molecular_theater_synthetic_on_hs1"
+      },
+      {
+        "id": "M3",
+        "title": "DNA theater structured TRGM beats null unstructured scatter",
+        "pass": true,
+        "interpretation": "Chromosome-theater TRGM out-viables null scatters under hard gates.",
+        "detail": {
+          "molViability": 1,
+          "nullRate": 0
+        },
+        "evidence": "empirically_observed",
+        "data": "molecular_theater_vs_null"
+      },
+      {
+        "id": "M4",
+        "title": "LC wave theater: vg(0) in literature band; Brillouin edge vg→0",
+        "pass": true,
+        "interpretation": "Molecular LC dispersion sits in published nucleoprotein vp band with vanishing edge vg.",
+        "detail": [
+          {
+            "chrom": "chrY",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          },
+          {
+            "chrom": "chr1",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          },
+          {
+            "chrom": "chr21",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          },
+          {
+            "chrom": "chrX",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          }
+        ],
+        "evidence": "numerically_verified",
+        "data": "chromosomal_lc_literature"
+      },
+      {
+        "id": "M5",
+        "title": "Phase remains soft steering delta on molecular theater (not hard gate)",
+        "pass": true,
+        "interpretation": "On DNA theater, phase stays a foundational steering/coordination delta — hard viability still geo+wave+nav.",
+        "detail": {
+          "softPhaseOkRate": 1,
+          "hardGate": false
+        },
+        "evidence": "empirically_observed",
+        "data": "molecular_theater_synthetic_on_hs1"
+      },
+      {
+        "id": "T1",
+        "title": "Intelligently structured three-symbol cyclic input stream is well-formed",
+        "pass": true,
+        "interpretation": "Structured Σ={0,1,2} stream covers all symbols over 3× period-9 cycles (H=1.585).",
+        "detail": {
+          "alphabet": [
+            0,
+            1,
+            2
+          ],
+          "period": 9,
+          "cycles": 3,
+          "length": 27,
+          "counts": [
+            9,
+            9,
+            9
+          ],
+          "entropy": 1.584962500721156,
+          "maxEntropy": 1.584962500721156,
+          "motif": [
+            0,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        "evidence": "numerically_verified",
+        "data": "synthetic_triadic_stream"
+      },
+      {
+        "id": "T2",
+        "title": "Rotating polygon spin clocks the three-symbol stream",
+        "pass": true,
+        "interpretation": "9-gon spin locks stream symbols to vertices (sync=100.0%).",
+        "detail": {
+          "sides": 9,
+          "clockSyncRate": 1,
+          "nTicks": 27
+        },
+        "evidence": "numerically_verified",
+        "data": "synthetic_polygon_spin"
+      },
+      {
+        "id": "T3",
+        "title": "Infinite Octave recursive holographic-rhyme tree encodes the stream coherently",
+        "pass": true,
+        "interpretation": "Φ_EGS octave tree (7 layers, depth ±3) is coherent under holographic rhyme grammar.",
+        "detail": {
+          "depth": 3,
+          "nLayers": 7,
+          "phiIdentity": true,
+          "shrinkOk": true,
+          "reconstructible": true
+        },
+        "evidence": "numerically_verified",
+        "data": "synthetic_octave_tree"
+      },
+      {
+        "id": "T4",
+        "title": "Folded compact DNA (nucleosome wrap) hosts the tree with compaction > 1",
+        "pass": true,
+        "interpretation": "chr1 folded into 1689709× 147-bp spools (1.65 turns); compaction=18.81.",
+        "detail": {
+          "hostChrom": "chr1",
+          "hostBp": 248387328,
+          "wrapBp": 147,
+          "turns": 1.65,
+          "phiEgs": 1.618033988749895,
+          "windingNearPhi": true,
+          "nSpools": 1689709,
+          "compactionRatio": 18.80891466825322
+        },
+        "evidence": "numerically_verified",
+        "data": "hs1_folded_compact_dna"
+      },
+      {
+        "id": "T5",
+        "title": "Full stack (structured+clocked+tree+folded) beats ablations on coherence architecture",
+        "pass": true,
+        "interpretation": "Full triadic–polygon–octave–folded-DNA stack outranks unstructured/unclocked/flat/unfolded ablations.",
+        "detail": {
+          "beatsUnstructured": true,
+          "beatsUnclocked": true,
+          "beatsFlat": true,
+          "beatsUnfolded": true,
+          "conditions": {
+            "full": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 1,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0008939940542806352,
+              "meanPhaseR": 0.958414986753143,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_cyclic",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 1,
+              "treeCoherent": true,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": 10,
+              "hasBioPipe": true
+            },
+            "unstructured": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.9111111111111113,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0007428322653389129,
+              "meanPhaseR": 0.9561773701082777,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "unstructured_noise",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 0.4074074074074074,
+              "treeCoherent": true,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            },
+            "unclocked": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.8499999999999998,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0009942904667939922,
+              "meanPhaseR": 0.9594481505415668,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_but_unclocked",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 0,
+              "treeCoherent": true,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            },
+            "flat": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.6500000000000001,
+              "benefitRate": 0,
+              "meanWaveL2": 0.000770301258131911,
+              "meanPhaseR": 0.9559518409383277,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_cyclic",
+              "treeKind": "flat_no_octave_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 1,
+              "treeCoherent": false,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            },
+            "unfolded": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.8499999999999998,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0008939940542806352,
+              "meanPhaseR": 0.958414986753143,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_cyclic",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "linear_unfolded_dna",
+              "clockSyncRate": 1,
+              "treeCoherent": true,
+              "compactionRatio": 1,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            }
+          }
+        },
+        "evidence": "empirically_observed",
+        "data": "ablation_battery"
+      },
+      {
+        "id": "T6",
+        "title": "Full stack produces beneficial outcomes (viability + coherence benefit band)",
+        "pass": true,
+        "interpretation": "Full stack benefitRate=100.0%, viability=100.0%, meanCoherence=1.000.",
+        "detail": {
+          "full": {
+            "n": 12,
+            "viabilityRate": 1,
+            "meanCoherence": 1,
+            "benefitRate": 1,
+            "meanWaveL2": 0.0008939940542806352,
+            "meanPhaseR": 0.958414986753143,
+            "navSuccessRate": 1,
+            "softPhaseOkRate": 1,
+            "streamKind": "structured_cyclic",
+            "treeKind": "infinite_octave_holographic_rhyme_tree",
+            "hostKind": "folded_compact_dna",
+            "clockSyncRate": 1,
+            "treeCoherent": true,
+            "compactionRatio": 18.80891466825322,
+            "bioPipeBitRateBps": 10,
+            "hasBioPipe": true
+          },
+          "gateWaveL2Max": 0.05,
+          "gateSyncRMin": 0.95
+        },
+        "evidence": "empirically_observed",
+        "data": "trgm_on_triadic_octave_dna_stack"
+      },
+      {
+        "id": "T7",
+        "title": "10 bits/s biological reality stream pipe feeds the triad architecture",
+        "pass": true,
+        "interpretation": "Biological reality pipe locked at 10 bit/s · 27 triad ticks · duration≈4.279 s · H/symbol≈1.585.",
+        "detail": {
+          "bitRateBps": 10,
+          "alphabetBits": 1.584962500721156,
+          "symbolsPerSecond": 6.309297535714575,
+          "streamLength": 27,
+          "durationSec": 4.279398751947121,
+          "informationBits": 42.793987519471216,
+          "effectiveBitRateBps": 10.000000000000002,
+          "channelMap": {
+            "0": "wave",
+            "1": "node",
+            "2": "fq"
+          },
+          "fullStackHasPipe": true,
+          "scheduleTicks": 27
+        },
+        "evidence": "numerically_verified",
+        "data": "biological_reality_pipe_10bps"
+      },
+      {
+        "id": "G1",
+        "title": "Real gene panel nodes load within GRCh38 chrom bounds",
+        "pass": true,
+        "interpretation": "Loaded 10 GTEx gene nodes; all within hg38 chrom sizes.",
+        "detail": {
+          "nGenes": 10,
+          "symbols": [
+            "INS",
+            "PDX1",
+            "POMC",
+            "NPY",
+            "DNMT1",
+            "DNMT3A",
+            "APP",
+            "SOD1",
+            "DYRK1A",
+            "TMPRSS2"
+          ],
+          "assembly": "GRCh38/hg38",
+          "source": "GTEx Portal API v2 reference/gene",
+          "allWithinChrom": true
+        },
+        "evidence": "empirically_observed",
+        "data": "gtex_gene_panel_grch38"
+      },
+      {
+        "id": "G2",
+        "title": "Exon nodes nest under genes; CDS lengths are codon-compatible (mod 3 = 0)",
+        "pass": true,
+        "interpretation": "MyGene exons 125 nest (rate=100.0%); CDS codon-compatible rate=100.0%.",
+        "detail": {
+          "nExons": 125,
+          "exonNestRate": 1,
+          "nCds": 9,
+          "cdsCompatibleRate": 1,
+          "cdsOk": true,
+          "cds": [
+            {
+              "symbol": "INS",
+              "lengthBp": 333,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "PDX1",
+              "lengthBp": 852,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "POMC",
+              "lengthBp": 804,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "NPY",
+              "lengthBp": 294,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "DNMT1",
+              "lengthBp": 4899,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "APP",
+              "lengthBp": 1983,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "SOD1",
+              "lengthBp": 465,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "DYRK1A",
+              "lengthBp": 2265,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "TMPRSS2",
+              "lengthBp": 1479,
+              "mod3": 0,
+              "codonCompatible": true
+            }
+          ],
+          "source": "MyGene.info v3"
+        },
+        "evidence": "empirically_observed",
+        "data": "mygene_exon_panel_grch38"
+      },
+      {
+        "id": "G3",
+        "title": "Real hs1 chrM FASTA composition is well-formed (GC + CpG obs/exp)",
+        "pass": true,
+        "interpretation": "chrM hs1 length=16569 · GC=44.37% · CpG obs/exp=0.641.",
+        "detail": {
+          "id": "chrM",
+          "length": 16569,
+          "counts": {
+            "A": 5124,
+            "C": 5183,
+            "G": 2169,
+            "T": 4093,
+            "N": 0,
+            "other": 0
+          },
+          "gcFraction": 0.4437202003741928,
+          "gcPercent": 44.37202003741928,
+          "cpgCount": 435,
+          "cpgObsExp": 0.6411667702748322,
+          "alphabetOk": true,
+          "expectedLength": 16569,
+          "source": "UCSC hs1 getData/sequence"
+        },
+        "evidence": "numerically_verified",
+        "data": "ucsc_hs1_chrM_fasta"
+      },
+      {
+        "id": "G4",
+        "title": "Public CpG islands in gene±50kb windows enrich vs chrom-shuffled null",
+        "pass": true,
+        "interpretation": "CpG panel n=48 enriches 195.92× vs shuffled null (mean=0.24).",
+        "detail": {
+          "nIslands": 48,
+          "nullMeanHits": 0.245,
+          "enrichment": 195.91836734693877,
+          "nullTrials": 200,
+          "source": "UCSC API getData/track cpgIslandExt"
+        },
+        "evidence": "empirically_observed",
+        "data": "ucsc_hg38_cpgIslandExt_gene_windows"
+      },
+      {
+        "id": "G5",
+        "title": "Gene nodes project onto DNA theater, survive nucleosome fold, TRGM stays viable",
+        "pass": true,
+        "interpretation": "Host chr21: gene order preserved under fold (compaction=18.81); TRGM viability 100.0%.",
+        "detail": {
+          "hostChrom": "chr21",
+          "hostBp": 45090682,
+          "nProjectedGenes": 4,
+          "orderPreserved": true,
+          "compactionRatio": 18.80891466825322,
+          "wrapBp": 147,
+          "turns": 1.65,
+          "viabilityRate": 1,
+          "nHeld": 8
+        },
+        "evidence": "empirically_observed",
+        "data": "genetic_nodes_on_hs1_theater"
+      },
+      {
+        "id": "C1",
+        "title": "Genetic-node catalog assigns every feature to wave / node / fq",
+        "pass": true,
+        "interpretation": "Catalogued 199 genetic features across wave/node/fq (54/130/15).",
+        "detail": {
+          "nEntries": 199,
+          "nGenes": 10,
+          "byChannel": {
+            "wave": 54,
+            "node": 130,
+            "fq": 15
+          },
+          "catalogPath": "/workspace/research/synthobs-tiny-reality-generation-model/data/molecular/genetic/wave_node_fq_catalog.json"
+        },
+        "evidence": "numerically_verified",
+        "data": "wave_node_fq_catalog"
+      },
+      {
+        "id": "C2",
+        "title": "Each triad input has ≥1 gene primary and ≥2 feature kinds",
+        "pass": true,
+        "interpretation": "wave←DNMT1,DNMT3A · node←APP,SOD1,DYRK1A,TMPRSS2 · fq←INS,PDX1,POMC,NPY.",
+        "detail": {
+          "genesByChannel": {
+            "wave": [
+              "DNMT1",
+              "DNMT3A"
+            ],
+            "node": [
+              "APP",
+              "SOD1",
+              "DYRK1A",
+              "TMPRSS2"
+            ],
+            "fq": [
+              "INS",
+              "PDX1",
+              "POMC",
+              "NPY"
+            ]
+          },
+          "kindsByChannel": {
+            "wave": [
+              "cpg_island",
+              "gene",
+              "sequence_composition",
+              "lc_dispersion"
+            ],
+            "node": [
+              "exon",
+              "gene",
+              "theater_scaffold"
+            ],
+            "fq": [
+              "gene",
+              "cds",
+              "nucleosome_period",
+              "fundamental_frequency"
+            ]
+          }
+        },
+        "evidence": "empirically_observed",
+        "data": "wave_node_fq_catalog"
+      },
+      {
+        "id": "C3",
+        "title": "Three-symbol stream locks to wave=0 · node=1 · fq=2 and visits all channels",
+        "pass": true,
+        "interpretation": "Σ={0,1,2} ↔ {wave,node,fq}; structured motif visits all three channels each polygon period.",
+        "detail": {
+          "symbolToInput": {
+            "0": "wave",
+            "1": "node",
+            "2": "fq"
+          },
+          "motif": [
+            0,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            2
+          ],
+          "motifChannelSequence": [
+            "wave",
+            "fq",
+            "fq",
+            "node",
+            "node",
+            "node",
+            "wave",
+            "wave",
+            "fq"
+          ],
+          "motifCover": [
+            "wave",
+            "fq",
+            "node"
+          ]
+        },
+        "evidence": "numerically_verified",
+        "data": "triadic_symbol_wave_node_fq_lock"
+      }
+    ],
+    "syntheticExperiments": [
+      {
+        "id": "E1",
+        "title": "Wave–Node foundation A–E still pass (imported battery)",
+        "pass": true,
+        "foundation": {
+          "A_pass": true,
+          "B_pass": true,
+          "C_pass": true,
+          "D_pass": true,
+          "E_pass": true,
+          "allPass": true,
+          "waveOrder": 2.0007377150948127,
+          "planning": {
+            "astar": {
+              "method": "A*",
+              "n": 24,
+              "successRate": 1,
+              "meanLength": 52.83918343834066,
+              "collisionRate": 0,
+              "meanIterations": 185.91666666666666
+            },
+            "wavePhase": {
+              "method": "WaveNode+phase",
+              "n": 24,
+              "successRate": 1,
+              "meanLength": 55.707034568538404,
+              "collisionRate": 0,
+              "meanIterations": 41.416666666666664
+            },
+            "waveAblation": {
+              "method": "WaveNode-ablation",
+              "n": 24,
+              "successRate": 1,
+              "meanLength": 55.765960133637286,
+              "collisionRate": 0,
+              "meanIterations": 41.458333333333336
+            }
+          },
+          "phaseSteeringDelta": {
+            "wavePhaseMeanLength": 55.707034568538404,
+            "waveAblationMeanLength": 55.765960133637286,
+            "lengthDelta": 0.058925565098881805,
+            "note": "Phase = small steering bias on harmonic ascent; not expected to beat A* on path length."
+          }
+        },
+        "interpretation": "Foundation intact · FDTD order ≈ 2.001",
+        "evidence": "numerically_verified",
+        "data": "synthetic"
+      },
+      {
+        "id": "E2",
+        "title": "Held-out tiny-reality Goldilocks viability",
+        "pass": true,
+        "held": {
+          "n": 16,
+          "viabilityRate": 1,
+          "meanWaveL2": 0.0009351717296449112,
+          "meanPhaseR": 0.9572499034665924,
+          "navSuccessRate": 1,
+          "meanPathLength": 42.8257710552387,
+          "softPhaseOkRate": 1
+        },
+        "interpretation": "Held-out viability 100.0% (n=16).",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      },
+      {
+        "id": "E3",
+        "title": "TRGM beats null unstructured scatter on viability",
+        "pass": true,
+        "trgm": 1,
+        "nullRate": 0,
+        "interpretation": "Structured Wave–Node scaffolds out-viable random scatters under pre-registered gates.",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      },
+      {
+        "id": "E4",
+        "title": "Nested L0→L1 child descriptors present",
+        "pass": true,
+        "nesting": {
+          "levels": 2,
+          "allHaveChild": true
+        },
+        "interpretation": "Every held-out L0 reality carries an L1 nested child recipe.",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      },
+      {
+        "id": "E5",
+        "title": "Phase is steering delta (soft); hard viability = geo+wave+nav",
+        "pass": true,
+        "softPhaseOkRate": 1,
+        "hardGate": false,
+        "interpretation": "Foundational steering/coordination delta — soft metric on Kuramoto community; hard viability = geometry + wave + navigation.",
+        "evidence": "empirically_observed",
+        "data": "synthetic"
+      }
+    ],
+    "historicalExperiments": [
+      {
+        "id": "H1",
+        "title": "Historical structure Goldilocks → higher held-out heading order (Movebank)",
+        "pass": false,
+        "interpretation": "Held-out structure Goldilocks band did not raise mean phase order vs out-of-band (mixed/null).",
+        "detail": {
+          "pass": false,
+          "inBandN": 87,
+          "outBandN": 21,
+          "inBandMeanPhaseR": 0.04993643215156016,
+          "outBandMeanPhaseR": 0.057987569515559244,
+          "rhoStructureVsPhaseHeld": -0.027199024455305,
+          "interpretation": "Held-out structure Goldilocks band did not raise mean phase order vs out-of-band (mixed/null)."
+        },
+        "evidence": "empirically_observed",
+        "data": "historical_movebank_gps"
+      },
+      {
+        "id": "H2",
+        "title": "Historical heading order beats day-matched shuffle null",
+        "pass": false,
+        "interpretation": "Real headings beat shuffle on only 46.3% of held-out days (threshold 55%) — weak/null coordination signal.",
+        "detail": {
+          "pass": false,
+          "beatShuffleRate": 0.46296296296296297,
+          "threshold": 0.55,
+          "meanPhaseR": 0.05150193108344887,
+          "meanShuffleR": 0.05150193108344887,
+          "interpretation": "Real headings beat shuffle on only 46.3% of held-out days (threshold 55%) — weak/null coordination signal."
+        },
+        "evidence": "empirically_observed",
+        "data": "historical_movebank_gps"
+      },
+      {
+        "id": "H3",
+        "title": "Historical storm vs quiet heading-order contrast (GFZ Kp ∩ collar window)",
+        "pass": true,
+        "interpretation": "Storm vs quiet mean phase Δ=0.00604 on held-out days (n_storm=6).",
+        "detail": {
+          "pass": true,
+          "stormN": 6,
+          "quietN": 102,
+          "stormMeanPhaseR": 0.05720705322913977,
+          "quietMeanPhaseR": 0.05116633566311411,
+          "delta": 0.006040717566025658,
+          "interpretation": "Storm vs quiet mean phase Δ=0.00604 on held-out days (n_storm=6)."
+        },
+        "evidence": "empirically_observed",
+        "data": "historical_gfz_kp_archive"
+      }
+    ],
+    "molecularExperiments": [
+      {
+        "id": "M1",
+        "title": "Public hs1 chrom sizes + B-DNA rise build valid molecular theater geometry",
+        "pass": true,
+        "interpretation": "T2T hs1 theaters for chrY, chr1, chr21, chrX match bp×3.4e-10 m rise spacing.",
+        "detail": {
+          "assembly": "hs1 (T2T-CHM13v2.0)",
+          "nChromsLoaded": 25,
+          "targetChroms": [
+            {
+              "chrom": "chrY",
+              "bp": 62460029,
+              "lengthM": 0.02123640986,
+              "nodes": 48,
+              "spacingPass": true
+            },
+            {
+              "chrom": "chr1",
+              "bp": 248387328,
+              "lengthM": 0.08445169152,
+              "nodes": 48,
+              "spacingPass": true
+            },
+            {
+              "chrom": "chr21",
+              "bp": 45090682,
+              "lengthM": 0.015330831880000001,
+              "nodes": 48,
+              "spacingPass": true
+            },
+            {
+              "chrom": "chrX",
+              "bp": 154259566,
+              "lengthM": 0.05244825244,
+              "nodes": 48,
+              "spacingPass": true
+            }
+          ],
+          "deltaXM": 3.4e-10
+        },
+        "evidence": "numerically_verified",
+        "data": "historical_ucsc_hs1"
+      },
+      {
+        "id": "M2",
+        "title": "TRGM recipes execute on DNA/chromosome theater with hard geo+wave+nav viability",
+        "pass": true,
+        "interpretation": "Held-out TRGM on chr1 theater viability 100.0% (hard gates).",
+        "detail": {
+          "hostChrom": "chr1",
+          "hostBp": 248387328,
+          "n": 16,
+          "viabilityRate": 1,
+          "softPhaseOkRate": 1,
+          "meanWaveL2": 0.0007836590560045647,
+          "meanPhaseR": 0.9560045902489624,
+          "navSuccessRate": 1
+        },
+        "evidence": "empirically_observed",
+        "data": "molecular_theater_synthetic_on_hs1"
+      },
+      {
+        "id": "M3",
+        "title": "DNA theater structured TRGM beats null unstructured scatter",
+        "pass": true,
+        "interpretation": "Chromosome-theater TRGM out-viables null scatters under hard gates.",
+        "detail": {
+          "molViability": 1,
+          "nullRate": 0
+        },
+        "evidence": "empirically_observed",
+        "data": "molecular_theater_vs_null"
+      },
+      {
+        "id": "M4",
+        "title": "LC wave theater: vg(0) in literature band; Brillouin edge vg→0",
+        "pass": true,
+        "interpretation": "Molecular LC dispersion sits in published nucleoprotein vp band with vanishing edge vg.",
+        "detail": [
+          {
+            "chrom": "chrY",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          },
+          {
+            "chrom": "chr1",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          },
+          {
+            "chrom": "chr21",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          },
+          {
+            "chrom": "chrX",
+            "vgAtZero": 20000000,
+            "vpInBand": true,
+            "bandEdgeVgIsZero": true
+          }
+        ],
+        "evidence": "numerically_verified",
+        "data": "chromosomal_lc_literature"
+      },
+      {
+        "id": "M5",
+        "title": "Phase remains soft steering delta on molecular theater (not hard gate)",
+        "pass": true,
+        "interpretation": "On DNA theater, phase stays a foundational steering/coordination delta — hard viability still geo+wave+nav.",
+        "detail": {
+          "softPhaseOkRate": 1,
+          "hardGate": false
+        },
+        "evidence": "empirically_observed",
+        "data": "molecular_theater_synthetic_on_hs1"
+      }
+    ],
+    "triadicExperiments": [
+      {
+        "id": "T1",
+        "title": "Intelligently structured three-symbol cyclic input stream is well-formed",
+        "pass": true,
+        "interpretation": "Structured Σ={0,1,2} stream covers all symbols over 3× period-9 cycles (H=1.585).",
+        "detail": {
+          "alphabet": [
+            0,
+            1,
+            2
+          ],
+          "period": 9,
+          "cycles": 3,
+          "length": 27,
+          "counts": [
+            9,
+            9,
+            9
+          ],
+          "entropy": 1.584962500721156,
+          "maxEntropy": 1.584962500721156,
+          "motif": [
+            0,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        "evidence": "numerically_verified",
+        "data": "synthetic_triadic_stream"
+      },
+      {
+        "id": "T2",
+        "title": "Rotating polygon spin clocks the three-symbol stream",
+        "pass": true,
+        "interpretation": "9-gon spin locks stream symbols to vertices (sync=100.0%).",
+        "detail": {
+          "sides": 9,
+          "clockSyncRate": 1,
+          "nTicks": 27
+        },
+        "evidence": "numerically_verified",
+        "data": "synthetic_polygon_spin"
+      },
+      {
+        "id": "T3",
+        "title": "Infinite Octave recursive holographic-rhyme tree encodes the stream coherently",
+        "pass": true,
+        "interpretation": "Φ_EGS octave tree (7 layers, depth ±3) is coherent under holographic rhyme grammar.",
+        "detail": {
+          "depth": 3,
+          "nLayers": 7,
+          "phiIdentity": true,
+          "shrinkOk": true,
+          "reconstructible": true
+        },
+        "evidence": "numerically_verified",
+        "data": "synthetic_octave_tree"
+      },
+      {
+        "id": "T4",
+        "title": "Folded compact DNA (nucleosome wrap) hosts the tree with compaction > 1",
+        "pass": true,
+        "interpretation": "chr1 folded into 1689709× 147-bp spools (1.65 turns); compaction=18.81.",
+        "detail": {
+          "hostChrom": "chr1",
+          "hostBp": 248387328,
+          "wrapBp": 147,
+          "turns": 1.65,
+          "phiEgs": 1.618033988749895,
+          "windingNearPhi": true,
+          "nSpools": 1689709,
+          "compactionRatio": 18.80891466825322
+        },
+        "evidence": "numerically_verified",
+        "data": "hs1_folded_compact_dna"
+      },
+      {
+        "id": "T5",
+        "title": "Full stack (structured+clocked+tree+folded) beats ablations on coherence architecture",
+        "pass": true,
+        "interpretation": "Full triadic–polygon–octave–folded-DNA stack outranks unstructured/unclocked/flat/unfolded ablations.",
+        "detail": {
+          "beatsUnstructured": true,
+          "beatsUnclocked": true,
+          "beatsFlat": true,
+          "beatsUnfolded": true,
+          "conditions": {
+            "full": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 1,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0008939940542806352,
+              "meanPhaseR": 0.958414986753143,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_cyclic",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 1,
+              "treeCoherent": true,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": 10,
+              "hasBioPipe": true
+            },
+            "unstructured": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.9111111111111113,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0007428322653389129,
+              "meanPhaseR": 0.9561773701082777,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "unstructured_noise",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 0.4074074074074074,
+              "treeCoherent": true,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            },
+            "unclocked": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.8499999999999998,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0009942904667939922,
+              "meanPhaseR": 0.9594481505415668,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_but_unclocked",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 0,
+              "treeCoherent": true,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            },
+            "flat": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.6500000000000001,
+              "benefitRate": 0,
+              "meanWaveL2": 0.000770301258131911,
+              "meanPhaseR": 0.9559518409383277,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_cyclic",
+              "treeKind": "flat_no_octave_tree",
+              "hostKind": "folded_compact_dna",
+              "clockSyncRate": 1,
+              "treeCoherent": false,
+              "compactionRatio": 18.80891466825322,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            },
+            "unfolded": {
+              "n": 12,
+              "viabilityRate": 1,
+              "meanCoherence": 0.8499999999999998,
+              "benefitRate": 1,
+              "meanWaveL2": 0.0008939940542806352,
+              "meanPhaseR": 0.958414986753143,
+              "navSuccessRate": 1,
+              "softPhaseOkRate": 1,
+              "streamKind": "structured_cyclic",
+              "treeKind": "infinite_octave_holographic_rhyme_tree",
+              "hostKind": "linear_unfolded_dna",
+              "clockSyncRate": 1,
+              "treeCoherent": true,
+              "compactionRatio": 1,
+              "bioPipeBitRateBps": null,
+              "hasBioPipe": false
+            }
+          }
+        },
+        "evidence": "empirically_observed",
+        "data": "ablation_battery"
+      },
+      {
+        "id": "T6",
+        "title": "Full stack produces beneficial outcomes (viability + coherence benefit band)",
+        "pass": true,
+        "interpretation": "Full stack benefitRate=100.0%, viability=100.0%, meanCoherence=1.000.",
+        "detail": {
+          "full": {
+            "n": 12,
+            "viabilityRate": 1,
+            "meanCoherence": 1,
+            "benefitRate": 1,
+            "meanWaveL2": 0.0008939940542806352,
+            "meanPhaseR": 0.958414986753143,
+            "navSuccessRate": 1,
+            "softPhaseOkRate": 1,
+            "streamKind": "structured_cyclic",
+            "treeKind": "infinite_octave_holographic_rhyme_tree",
+            "hostKind": "folded_compact_dna",
+            "clockSyncRate": 1,
+            "treeCoherent": true,
+            "compactionRatio": 18.80891466825322,
+            "bioPipeBitRateBps": 10,
+            "hasBioPipe": true
+          },
+          "gateWaveL2Max": 0.05,
+          "gateSyncRMin": 0.95
+        },
+        "evidence": "empirically_observed",
+        "data": "trgm_on_triadic_octave_dna_stack"
+      },
+      {
+        "id": "T7",
+        "title": "10 bits/s biological reality stream pipe feeds the triad architecture",
+        "pass": true,
+        "interpretation": "Biological reality pipe locked at 10 bit/s · 27 triad ticks · duration≈4.279 s · H/symbol≈1.585.",
+        "detail": {
+          "bitRateBps": 10,
+          "alphabetBits": 1.584962500721156,
+          "symbolsPerSecond": 6.309297535714575,
+          "streamLength": 27,
+          "durationSec": 4.279398751947121,
+          "informationBits": 42.793987519471216,
+          "effectiveBitRateBps": 10.000000000000002,
+          "channelMap": {
+            "0": "wave",
+            "1": "node",
+            "2": "fq"
+          },
+          "fullStackHasPipe": true,
+          "scheduleTicks": 27
+        },
+        "evidence": "numerically_verified",
+        "data": "biological_reality_pipe_10bps"
+      }
+    ],
+    "geneticExperiments": [
+      {
+        "id": "G1",
+        "title": "Real gene panel nodes load within GRCh38 chrom bounds",
+        "pass": true,
+        "interpretation": "Loaded 10 GTEx gene nodes; all within hg38 chrom sizes.",
+        "detail": {
+          "nGenes": 10,
+          "symbols": [
+            "INS",
+            "PDX1",
+            "POMC",
+            "NPY",
+            "DNMT1",
+            "DNMT3A",
+            "APP",
+            "SOD1",
+            "DYRK1A",
+            "TMPRSS2"
+          ],
+          "assembly": "GRCh38/hg38",
+          "source": "GTEx Portal API v2 reference/gene",
+          "allWithinChrom": true
+        },
+        "evidence": "empirically_observed",
+        "data": "gtex_gene_panel_grch38"
+      },
+      {
+        "id": "G2",
+        "title": "Exon nodes nest under genes; CDS lengths are codon-compatible (mod 3 = 0)",
+        "pass": true,
+        "interpretation": "MyGene exons 125 nest (rate=100.0%); CDS codon-compatible rate=100.0%.",
+        "detail": {
+          "nExons": 125,
+          "exonNestRate": 1,
+          "nCds": 9,
+          "cdsCompatibleRate": 1,
+          "cdsOk": true,
+          "cds": [
+            {
+              "symbol": "INS",
+              "lengthBp": 333,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "PDX1",
+              "lengthBp": 852,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "POMC",
+              "lengthBp": 804,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "NPY",
+              "lengthBp": 294,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "DNMT1",
+              "lengthBp": 4899,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "APP",
+              "lengthBp": 1983,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "SOD1",
+              "lengthBp": 465,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "DYRK1A",
+              "lengthBp": 2265,
+              "mod3": 0,
+              "codonCompatible": true
+            },
+            {
+              "symbol": "TMPRSS2",
+              "lengthBp": 1479,
+              "mod3": 0,
+              "codonCompatible": true
+            }
+          ],
+          "source": "MyGene.info v3"
+        },
+        "evidence": "empirically_observed",
+        "data": "mygene_exon_panel_grch38"
+      },
+      {
+        "id": "G3",
+        "title": "Real hs1 chrM FASTA composition is well-formed (GC + CpG obs/exp)",
+        "pass": true,
+        "interpretation": "chrM hs1 length=16569 · GC=44.37% · CpG obs/exp=0.641.",
+        "detail": {
+          "id": "chrM",
+          "length": 16569,
+          "counts": {
+            "A": 5124,
+            "C": 5183,
+            "G": 2169,
+            "T": 4093,
+            "N": 0,
+            "other": 0
+          },
+          "gcFraction": 0.4437202003741928,
+          "gcPercent": 44.37202003741928,
+          "cpgCount": 435,
+          "cpgObsExp": 0.6411667702748322,
+          "alphabetOk": true,
+          "expectedLength": 16569,
+          "source": "UCSC hs1 getData/sequence"
+        },
+        "evidence": "numerically_verified",
+        "data": "ucsc_hs1_chrM_fasta"
+      },
+      {
+        "id": "G4",
+        "title": "Public CpG islands in gene±50kb windows enrich vs chrom-shuffled null",
+        "pass": true,
+        "interpretation": "CpG panel n=48 enriches 195.92× vs shuffled null (mean=0.24).",
+        "detail": {
+          "nIslands": 48,
+          "nullMeanHits": 0.245,
+          "enrichment": 195.91836734693877,
+          "nullTrials": 200,
+          "source": "UCSC API getData/track cpgIslandExt"
+        },
+        "evidence": "empirically_observed",
+        "data": "ucsc_hg38_cpgIslandExt_gene_windows"
+      },
+      {
+        "id": "G5",
+        "title": "Gene nodes project onto DNA theater, survive nucleosome fold, TRGM stays viable",
+        "pass": true,
+        "interpretation": "Host chr21: gene order preserved under fold (compaction=18.81); TRGM viability 100.0%.",
+        "detail": {
+          "hostChrom": "chr21",
+          "hostBp": 45090682,
+          "nProjectedGenes": 4,
+          "orderPreserved": true,
+          "compactionRatio": 18.80891466825322,
+          "wrapBp": 147,
+          "turns": 1.65,
+          "viabilityRate": 1,
+          "nHeld": 8
+        },
+        "evidence": "empirically_observed",
+        "data": "genetic_nodes_on_hs1_theater"
+      }
+    ],
+    "catalogExperiments": [
+      {
+        "id": "C1",
+        "title": "Genetic-node catalog assigns every feature to wave / node / fq",
+        "pass": true,
+        "interpretation": "Catalogued 199 genetic features across wave/node/fq (54/130/15).",
+        "detail": {
+          "nEntries": 199,
+          "nGenes": 10,
+          "byChannel": {
+            "wave": 54,
+            "node": 130,
+            "fq": 15
+          },
+          "catalogPath": "/workspace/research/synthobs-tiny-reality-generation-model/data/molecular/genetic/wave_node_fq_catalog.json"
+        },
+        "evidence": "numerically_verified",
+        "data": "wave_node_fq_catalog"
+      },
+      {
+        "id": "C2",
+        "title": "Each triad input has ≥1 gene primary and ≥2 feature kinds",
+        "pass": true,
+        "interpretation": "wave←DNMT1,DNMT3A · node←APP,SOD1,DYRK1A,TMPRSS2 · fq←INS,PDX1,POMC,NPY.",
+        "detail": {
+          "genesByChannel": {
+            "wave": [
+              "DNMT1",
+              "DNMT3A"
+            ],
+            "node": [
+              "APP",
+              "SOD1",
+              "DYRK1A",
+              "TMPRSS2"
+            ],
+            "fq": [
+              "INS",
+              "PDX1",
+              "POMC",
+              "NPY"
+            ]
+          },
+          "kindsByChannel": {
+            "wave": [
+              "cpg_island",
+              "gene",
+              "sequence_composition",
+              "lc_dispersion"
+            ],
+            "node": [
+              "exon",
+              "gene",
+              "theater_scaffold"
+            ],
+            "fq": [
+              "gene",
+              "cds",
+              "nucleosome_period",
+              "fundamental_frequency"
+            ]
+          }
+        },
+        "evidence": "empirically_observed",
+        "data": "wave_node_fq_catalog"
+      },
+      {
+        "id": "C3",
+        "title": "Three-symbol stream locks to wave=0 · node=1 · fq=2 and visits all channels",
+        "pass": true,
+        "interpretation": "Σ={0,1,2} ↔ {wave,node,fq}; structured motif visits all three channels each polygon period.",
+        "detail": {
+          "symbolToInput": {
+            "0": "wave",
+            "1": "node",
+            "2": "fq"
+          },
+          "motif": [
+            0,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            2
+          ],
+          "motifChannelSequence": [
+            "wave",
+            "fq",
+            "fq",
+            "node",
+            "node",
+            "node",
+            "wave",
+            "wave",
+            "fq"
+          ],
+          "motifCover": [
+            "wave",
+            "fq",
+            "node"
+          ]
+        },
+        "evidence": "numerically_verified",
+        "data": "triadic_symbol_wave_node_fq_lock"
+      }
+    ],
+    "n_pass": 25,
+    "n_total": 25,
+    "all_pass": true,
+    "historical_n_pass": 1,
+    "historical_n_total": 3,
+    "historical_all_pass": false,
+    "historical_ran": true,
+    "molecular_ran": true,
+    "molecular_n_pass": 5,
+    "molecular_n_total": 5,
+    "molecular_all_pass": true,
+    "triadic_ran": true,
+    "triadic_n_pass": 7,
+    "triadic_n_total": 7,
+    "triadic_all_pass": true,
+    "genetic_ran": true,
+    "genetic_n_pass": 5,
+    "genetic_n_total": 5,
+    "genetic_all_pass": true,
+    "catalog_ran": true,
+    "catalog_n_pass": 3,
+    "catalog_n_total": 3,
+    "catalog_all_pass": true,
+    "enginePinRecommended": true
+  },
+  "dependencyVersions": {
+    "node": "v22.23.4"
+  }
+}
